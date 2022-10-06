@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IgorGutzeit
-- 👀 I’m interested in fornt-end and mobile
-- 🌱 I’m currently doin computer science at College (4th period)
+- 🌱 I’m currently doin computer science at College (6th period)
 - 💞️ I’m looking to learn a lot and collaborate with as much as I can.
 - 📫 How to reach me gutzeit.igor18@gmail.com
 
