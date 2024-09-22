@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @IgorGutzeit
-- 🌱 I’m currently doin computer science at College (6th period)
+- 👋 Hi, I’m @IgorGutzeit. Computer Science Graduate.
+- 🌱 I’m currently working on NetBiis with Adobe Campaign Classic
 - 💞️ I’m looking to learn a lot and collaborate with as much as I can.
 - 📫 How to reach me gutzeit.igor18@gmail.com
 
